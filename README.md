@@ -13,7 +13,7 @@ A customizable **Range Slider control** for .NET MAUI applications, featuring:
 ---
 ## Preview
 
-![MauiRangeControl Preview](./images/range-slider-preview.png)
+![MauiRangeControl Preview](https://raw.githubusercontent.com/codewithasfend/MauiRangeControl/refs/heads/main/MauiRangeControl/MauiRangeControl/images/range-slider-preview.png)
 
 ---
 
